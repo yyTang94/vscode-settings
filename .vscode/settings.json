@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 16,
-    "editor.lineHeight": 1.8,
+    "editor.lineHeight": 2.0,
     "editor.minimap.enabled": false,
     "git.autofetch": true,
     "markdown.preview.fontSize": 17,
@@ -9,5 +9,6 @@
     "terminal.integrated.lineHeight": 1.5,
     "workbench.productIconTheme": "fluent-icons",
     "workbench.sideBar.location": "right",
-    "workbench.tree.indent": 25
+    "workbench.tree.indent": 25,
+    "workbench.colorTheme": "Gruvbox Material Light"
 }
